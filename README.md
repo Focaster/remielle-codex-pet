@@ -2,6 +2,10 @@
   <img src="./assets/readme/showcase.png" width="100%" alt="小蕾米宣传图：展示待机、挥手、完成庆祝、工作中和检查中五个可爱动作">
 </p>
 
+<p align="center">
+  <a href="https://github.com/HanaAyane/remielle-codex-pet/releases"><img src="https://img.shields.io/github/downloads/HanaAyane/remielle-codex-pet/total.svg?style=flat-square&amp;label=total%20downloads" alt="Releases 附件累计下载次数"></a>
+</p>
+
 <p align="center"><b>动态动作预览</b></p>
 
 <table>
@@ -93,6 +97,8 @@
 </details>
 
 ## 快速安装
+
+下载徽章自动显示 Releases 附件的累计下载次数，更新有缓存延迟；重复下载会累计，不代表独立用户数，也不包含 GitHub 自动生成的源码 ZIP/TAR 下载和 Git 克隆。
 
 ### Agent 安装（推荐）
 

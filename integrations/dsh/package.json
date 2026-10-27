@@ -1,0 +1,33 @@
+{
+  "name": "dsh-remielle-pet",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DeepSeek Harness integration for the remielle-codex-pet asset pack: in-page widget + desktop floating pet, driven by DSH session events.",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "assets/client.js",
+    "assets/pet.json",
+    "cordis.patch.yml",
+    "desktop/Pet.cs",
+    "desktop/start-pet.vbs",
+    "desktop/build.ps1",
+    "README.md"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Focaster/remielle-codex-pet.git",
+    "directory": "integrations/dsh"
+  },
+  "homepage": "https://github.com/Focaster/remielle-codex-pet/tree/dsh-adapter/integrations/dsh",
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "UNLICENSED"
+}

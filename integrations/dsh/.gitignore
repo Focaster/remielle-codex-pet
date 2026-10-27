@@ -1,0 +1,10 @@
+# 生成物（不要提交）
+assets/pet.json
+assets/spritesheet.webp
+assets/icon.png
+desktop/frames/
+desktop/remielle-pet.exe
+desktop/pet.log
+desktop/pet-state.txt
+desktop/config.json
+node_modules/

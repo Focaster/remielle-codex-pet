@@ -7,4 +7,5 @@ desktop/remielle-pet.exe
 desktop/pet.log
 desktop/pet-state.txt
 desktop/config.json
+config.json
 node_modules/
